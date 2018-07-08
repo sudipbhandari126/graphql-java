@@ -14,6 +14,10 @@ Running server:
 
 ```mvn jetty:run -Djetty.http.port=9999```
 
+## GraphiQl Demo
+
+![Demo using GraphiQL](https://github.com/sudipbhandari126/graphql-java/blob/master/src/main/resources/images/graphiql.gif)
+
 ## Declarative Data Fetching apis
 
 ```{
