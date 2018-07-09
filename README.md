@@ -33,9 +33,13 @@ Running server:
 
 ```mutation createLink{
      createLink(url:"https://google.com",description:"google home page"){
-       url
+       url 
        description
      }
    }
    ```
    
+## Learning Resources
+
+* [How to GraphQL](https://www.howtographql.com)
+* [Facebook github graphql](https://github.com/facebook/graphql)
